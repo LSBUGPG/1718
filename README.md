@@ -1,6 +1,6 @@
 ## Welcome to Game Programming
 
-[Module Information]
+[Module Information](ModuleInformation)
 
-* [Week 1] _\<Game Jam\>_
-* [Week 2]
+* ~~[Week 1](WeekOne)~~ _Game Jam_
+* [Week 2](WeekTwo)
