@@ -11,3 +11,15 @@ This module introduces students to a highly sought after job role in the game in
 Lecturer: Paul Sinnett
 
 email: sinnettp@lsbu.ac.uk
+
+# Module assessment
+
+The assessment for the module comprises 2 parts:  
+
+## Coursework 1
+
+A game component programming project, e.g. an A.I. script to battle other A.I. scripts in an arena working as a group or individually. Supported by weekly learning journal, programming task log, four self-selected programming assignments, and four peer assessments (worth 25% of the marks for the module.)
+
+## Coursework 2
+
+A small video game project demonstrating an understanding of the programming techniques developed by yourself and your peers over the course. Supported by weekly learning journal, programming task log, two peer programming task specifications, two peer assigned programming tasks, and two assessments of peer work (worth 75% of the marks for the module.)
