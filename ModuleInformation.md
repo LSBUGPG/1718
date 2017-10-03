@@ -5,3 +5,9 @@ In Game Programming will explore key concepts in programming, within the context
 # Employability statement
 
 This module introduces students to a highly sought after job role in the game industry: that of the programmer. After completing the module students will understand programming fundamentals and be able to write code that can be understood and used by members of professional game development teams. While students may not wish to pursue a career as a programmer, the module will give students knowledge and lexicon to effectively collaborate with programmers.
+
+# Contact information
+
+Lecturer: Paul Sinnett
+
+email: sinnettp@lsbu.ac.uk
