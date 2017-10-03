@@ -2,17 +2,17 @@
 
 ## Student Lotto
 
-Write your name on the lolly stick.
+Write your name on a lolly stick.
+
+## Look ahead
 
 * Questions? Fears? Anxieties?
 * [Overview of the module](ModuleInformation)
 * Learning techniques 
 * What can go wrong
-* Deprogramming
-* Assessment for Learning
-* GitHub
+* Introduction to programming
+* Programming exercise
 * Homework
-* Learning Outcomes
 
 ## Learning objectives
 
@@ -70,17 +70,23 @@ Assessment for Learning techniques:
 
 ## What can go wrong
 
-Countering cognitive distortions
+* cognitive distortions
+* procrastination
+* learned helplessness
+
+### Research cognitive distortions
+* what are cognitive distortions?
+* what is your most common automatic thought?
 
 ## What is programming?
 
 * Computer Science
-* a new language
+* a new language?
 * a new literacy
 
-## Programming exercise
+## Programming unplugged
 
-This is an exercise to show where the difficulty lies in programming. It should help you develop your empathy skills.
+This is an exercise to show where the difficulty lies in programming. It should also help you develop your empathy skills.
 
 ### Part 1
 * make a small Lego model, about 6 pieces
@@ -101,9 +107,16 @@ This is an exercise to show where the difficulty lies in programming. It should 
 
 ## Recall
 
+How do you do rubber duck debugging?
 
+What's a good technique to avoid procrastination?
+
+What are cognitive distortions?
+
+What is your most common automatic thought?
 
 ## Homework
 
 * Play a 'choose your own' adventure
-* find your 'rubber duck.'
+* make yourself a GitHub account and email me your username
+* find yourself a 'rubber duck'
