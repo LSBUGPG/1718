@@ -72,6 +72,7 @@ Assessment for Learning techniques:
 
 * cognitive distortions
 * imposter syndrome
+* Dunning–Kruger effect
 * procrastination
 * learned helplessness
 
