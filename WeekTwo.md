@@ -120,5 +120,5 @@ What is your most common automatic thought?
 ## Homework
 
 * Play a 'choose your own' adventure
-* make yourself a GitHub account and email me your username
+* make yourself a GitHub account and [email me](mailto:sinnettp@lsbu.ac.uk) your username
 * find yourself a 'rubber duck'
