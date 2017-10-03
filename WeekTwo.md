@@ -95,7 +95,7 @@ This is an exercise to show where the difficulty lies in programming. It should 
 * don't show this to anyone else
 * record your model (take a picure of it from a couple of angles)
 * separate your model into pieces
-* write down a list of instructions to put your model together (words only, no pictures)
+* write down a list of instructions to put your model together (words only, no pictures, and don't say what you are building)
 
 ### Part 2
 * give your instructions and pieces to someone else
