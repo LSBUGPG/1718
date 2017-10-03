@@ -71,6 +71,7 @@ Assessment for Learning techniques:
 ## What can go wrong
 
 * cognitive distortions
+* imposter syndrome
 * procrastination
 * learned helplessness
 
