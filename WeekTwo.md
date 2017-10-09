@@ -18,7 +18,7 @@ Write your name on a lolly stick.
 
 Students completing this module, should be able to:
 
-* create a personal learning plan
+* create a plan for self-directed learning
 * break a game design into software components
 * write, edit, test, and debug your own components
 * use version control for collaborative programming
