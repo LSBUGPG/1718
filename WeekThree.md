@@ -8,9 +8,13 @@
 
 ## Review
 
-- [ ] Anyone missing from student lotto?
-- [ ] Has everyone signed up for GitHub?
-- [ ] Did everyone bring a (named) rubber duck?
+Checklist:
+
+- Anyone missing from student lotto?
+- Has everyone signed up for GitHub?
+- Did everyone bring a (named) rubber duck?
+- Check GitHub works on student machines
+- Check the whiteboard for touch input and audio
 
 * Learning how to learn
 * Cognitive distortions
