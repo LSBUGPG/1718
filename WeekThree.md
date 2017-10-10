@@ -5,6 +5,8 @@
 * checklist
 * review last week
 * focus
+* cognitive distortions
+* questions
 
 ## Checklist:
 
@@ -35,7 +37,13 @@ Generate 4 random numbers and get your friend to write them down in order (where
 
 ## Cognitive distortions
 
-Some common automatic thoughts.
+Why cover cognitive distortions:
+
+- history of this course
+- programming is hard (you've already had a taste)
+- buiding grit and getting into the right mindset
+
+Some common automatic thoughts. What do these mean? Research:
 
 - Filtering
 - Polarized Thinking / “Black and White” Thinking
@@ -55,3 +63,12 @@ Date and Time | Thought | Category | Evidence
 09/10/17 09:00| Everybody hates me | Overgeneralisation | There are people that like me too
 09/10/17 09:20| I'm stupid | Labeling | Everyone makes mistakes
 ... | ... | ... | ...
+
+## Questions
+
+What size is your working memory?
+
+Describe the growth mindset.
+
+What is your most common automatic thought? And how will you counter it?
+
