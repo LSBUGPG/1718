@@ -33,3 +33,23 @@ In focus mode you use your working memory to learn stuff. But your working memor
 
 Generate 4 random numbers and get your friend to write them down in order (where you can't see.) Now try to recite the numbers in reverse order. If you can do it, try again with 5 numbers, then 6, until you hit the limit of your working memory.
 
+## Cognitive distortions
+
+Some common automatic thoughts.
+
+- Filtering
+- Polarized Thinking / “Black and White” Thinking
+- Overgeneralization / Global Labeling
+- Mindreading / Jumping to Conclusions
+- Catastrophizing
+- Personalization
+- Fallacy of Fairness / Shoulds, musts, oughts
+- Emotional Reasoning
+- Heaven’s Reward Fallacy
+
+Dealing with automatic thoughts. Make a table:
+
+Date and Time | Thought | Category | Evidence
+--------------|---------|----------|---------
+| | |
+| | |
