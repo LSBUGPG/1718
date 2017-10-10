@@ -6,6 +6,8 @@
 * review last week
 * focus
 * cognitive distortions
+* evidence game
+* automatic thoughts
 * questions
 
 ## Checklist:
@@ -41,9 +43,18 @@ Why cover cognitive distortions:
 
 - history of this course
 - programming is hard (you've already had a taste)
-- buiding grit and getting into the right mindset
+- [Leaned Helplessness](https://www.youtube.com/watch?v=gFmFOmprTt0)
+- building grit and getting into the right mindset
 
-Some common automatic thoughts. What do these mean? Research:
+Do some research and tell me, what is the difference between a fixed mindset and a growth mindset.
+
+## Evidence game
+
+I have a rule for generating numbers. I can't tell you what my rule is, but I can give you a sequence of numbers that follows my rule. You need to guess what my rule is. But all you can do is give me a sequence of numbers and asking if it follows my rule.
+
+## Countering your automatic thoughts.
+
+Some common automatic thought categories. What do these mean? Research:
 
 - Filtering
 - Polarized Thinking / “Black and White” Thinking
@@ -60,9 +71,15 @@ Dealing with automatic thoughts. Make a table:
 
 Date and Time | Thought | Category | Evidence
 --------------|---------|----------|---------
-09/10/17 09:00| Everybody hates me | Overgeneralisation | There are people that like me too
-09/10/17 09:20| I'm stupid | Labeling | Everyone makes mistakes
+10/10/17 09:00| Everybody hates me | Overgeneralisation | There are people that like me too
+10/10/17 09:20| I'm stupid | Labeling | Everyone makes mistakes
 ... | ... | ... | ...
+
+## Square roots
+
+- what is a square root?
+- when might you need to use a square root?
+- how do you calculate the square root of a number?
 
 ## Questions
 
