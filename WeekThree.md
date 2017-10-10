@@ -39,11 +39,12 @@ Some common automatic thoughts.
 
 - Filtering
 - Polarized Thinking / “Black and White” Thinking
-- Overgeneralization / Global Labeling
+- Overgeneralization
+- Labeling
 - Mindreading / Jumping to Conclusions
 - Catastrophizing
 - Personalization
-- Fallacy of Fairness / Shoulds, musts, oughts
+- Fallacy of Fairness / Shoulds, Musts, Oughts
 - Emotional Reasoning
 - Heaven’s Reward Fallacy
 
@@ -51,5 +52,6 @@ Dealing with automatic thoughts. Make a table:
 
 Date and Time | Thought | Category | Evidence
 --------------|---------|----------|---------
-| | |
-| | |
+09/10/17 09:00| Everybody hates me | Overgeneralisation | There are people that like me too
+09/10/17 09:20| I'm stupid | Labeling | Everyone makes mistakes
+... | ... | ... | ...
