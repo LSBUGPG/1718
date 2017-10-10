@@ -35,7 +35,9 @@ In focus mode you use your working memory to learn stuff. But your working memor
 * pencil and paper
 * 1 friend
 
-Generate 4 random numbers and get your friend to write them down in order (where you can't see.) Now try to recite the numbers in reverse order. If you can do it, try again with 5 numbers, then 6, until you hit the limit of your working memory.
+Generate 4 random numbers and get your friend to write them down in order (where you can't see.) Now try to recite the numbers in reverse order. If you can do it, try again with 5 new random numbers, then 6, until you hit the limit of your working memory.
+
+If you don't have any dice you can get random numbers from [here](https://www.random.org/)
 
 ## Cognitive distortions
 
