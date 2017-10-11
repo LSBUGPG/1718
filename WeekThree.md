@@ -45,7 +45,7 @@ Why cover cognitive distortions:
 
 - history of this course
 - programming is hard (you've already had a taste)
-- [Leaned Helplessness](https://www.youtube.com/watch?v=gFmFOmprTt0)
+- [Learned Helplessness](https://www.youtube.com/watch?v=gFmFOmprTt0)
 - building grit and getting into the right mindset
 
 Do some research and tell me, what is the difference between a fixed mindset and a growth mindset.
